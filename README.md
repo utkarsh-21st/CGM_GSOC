@@ -9,4 +9,5 @@ Evaluation Test
 - saved_model - Tensorflow saved model, Autoencoder, used to train encoder 
 
 Load pickle file using python `pickle` module
+
 Load TensorFlow model using, `tensorflow.keras.models.load_model` function
