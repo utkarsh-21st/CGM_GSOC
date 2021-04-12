@@ -1,7 +1,7 @@
 # CGM_GSOC
 Evaluation Test
 
-- notebook.ipynb - contains full code
+- eval_notebook.ipynb - contains full code
 - scaler - pickle file, SkLearn Robust Scaler
 - saved_encoder - Tensorflow saved model, encoder used to transform features to low dimensional space 
 - clf_red - pickle file, XGBoost classification model, accept low dimensional features as input
