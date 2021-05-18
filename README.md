@@ -4,6 +4,8 @@ Evaluation Test
 ##### Result on test data:
 - with original features (dimensions=28), ROC AUC Score = 0.8430741138771947
 - with low dimensional features (dimensions=14), ROC AUC Score = 0.736416256396276
+- Pipeline:
+original features -> Robust scaler -> low dimensional features -> DMatrix -> XGBoost
 -----
 ##### Info
 - notebook.ipynb - contains full code
