@@ -1,6 +1,8 @@
 # Dimensionality Reduction Using AutoEncoder
-Evaluation Test
------
+See: [notebook.ipynb](https://github.com/utkarsh-21st/dimensionality-reduction-using-auto-encoder/blob/main/notebook.ipynb "notebook.ipynb")
+- Used XGBosst for classification and keras for building an AutoEncoder
+
+- Link to the dataset: https://drive.google.com/file/d/1Nl-RU5HggCSWWqINN4gbxHAVzER6T2Po/view?usp=sharing
 ##### Result on test data:
 - with original features (dimensions=28), ROC AUC Score = 0.8430741138771947
 - with low dimensional features (dimensions=14), ROC AUC Score = 0.736416256396276
