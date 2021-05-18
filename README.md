@@ -1,4 +1,4 @@
-# CGM
+# Dimensionality Reduction Using AutoEncoder
 Evaluation Test
 -----
 ##### Result on test data:
@@ -6,7 +6,7 @@ Evaluation Test
 - with low dimensional features (dimensions=14), ROC AUC Score = 0.736416256396276
 -----
 ##### Info
-- eval_notebook.ipynb - contains full code
+- notebook.ipynb - contains full code
 - scaler - pickle file, SkLearn Robust Scaler
 - saved_encoder - Tensorflow saved model, encoder used to transform features to low dimensional space 
 - clf_red - pickle file, XGBoost classification model, accept low dimensional features as input
