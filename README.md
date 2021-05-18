@@ -1,4 +1,4 @@
-# CGM_GSOC
+# CGM
 Evaluation Test
 -----
 ##### Result on test data:
